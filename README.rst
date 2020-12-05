@@ -125,3 +125,4 @@ More Resources
 * `Changelog <https://github.com/boto/boto3/blob/develop/CHANGELOG.rst>`__
 * `License <https://github.com/boto/boto3/blob/develop/LICENSE.txt>`__
 
+My notes: `read <https://medium.com/python-in-plain-english/access-files-from-aws-s3-using-pre-signed-urls-in-python-f1b2f66bdd57>`__ this post
